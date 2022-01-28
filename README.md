@@ -1,35 +1,23 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xksub.github.io/EatKengo/"><img src="https://github.com/XKsub/EatKengo/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKengo"></a>
 </p>
 <div align="center">
 
-# EatKano
+# EatKengo
 
-_🦌 网页小游戏 🥛_
+网页小游戏
 
 </div>
 
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉剑悟
 
-[鹿乃b站](https://space.bilibili.com/316381099)
+[星空字幕组B站](https://space.bilibili.com/237288712)
 |
-[线上版本](https://xingye.me/game/eatkano/index.php)
+[星空字幕组微博](https://weibo.com/XKsub)
 |
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
-
-## 可选功能
-
-简易排行榜(日/周/月) 不推荐使用
-
-不需要排行榜把php/sql文件都删掉即可
-
-## 其它事项
-
-点下star吧~ 欢迎pr代码
-
-可修改和续写，需保留跳转此仓库的开源按钮
-
-如整成自己想要的吃掉xxx，可以Fork一份改下图和字，并在github pages运行，不会请参考[视频教程](https://www.bilibili.com/video/BV1jT4y1y7kA)
+[星空字幕组爱发电](https://afdian.net/@XKsub)
+|
+[线上版本](https://xksub.github.io/EatKengo/)
