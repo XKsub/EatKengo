@@ -441,10 +441,10 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
             SubmitResults();
         }
 
-        if (cps <= 5) return '别难过嘛，微笑，微笑！';
-        if (cps <= 8) return '别难过嘛，微笑，微笑！';
-        if (cps <= 10)  return '让大家绽放微笑的世界近在咫尺';
-        if (cps <= 15) return '让大家绽放微笑的世界近在咫尺';
+        if (cps <= 1) return '别难过嘛，微笑，微笑！';
+        if (cps <= 2) return '别难过嘛，微笑，微笑！';
+        if (cps <= 4)  return '让大家绽放微笑的世界近在咫尺';
+        if (cps <= 6) return '您就是迦心糖吧';
         return '您就是迦心糖吧';
     }
 
